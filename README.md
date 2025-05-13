@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura. Este curso em especifico foi realizado para aprender os cenceitos e algumas práticas do GIT e GITHUB - Git e GitHub: compartilhando e colaborando em projetos</p>
+<p>Projeto utilizado no curso de Git e GitHub (Git e GitHub: compartilhando e colaborando em projetos) da Alura. Este curso em especifico foi realizado para aprender os cenceitos e algumas práticas do GitHub.</p>
 
 ## 🚀 Tecnologias
 <div>
